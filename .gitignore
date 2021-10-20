@@ -32,4 +32,5 @@ build/
 ### VS Code ###
 .vscode/
 /src/main/resources/secure-connect.zip
+**/application.yml
 application.yml
